@@ -1,3 +1,13 @@
+---
+
+## Demo
+
+[![Play Demo](https://img.shields.io/badge/Demo-Click_here-brightgreen)](https://murugan47.github.io/GardenVisualizer/)
+
+Click the button above to try a live WebGL demo of the game in your browser.
+
+---
+
 Double Pendulum Simulator (Unity)
 
 A fully functional double pendulum simulator built in Unity, using the standard Lagrangian-derived equations of motion. This project numerically solves the coupled differential equations governing a double pendulum and visualizes the motion in real time.
