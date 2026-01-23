@@ -16,6 +16,10 @@ Overview
 
 Finally got around to completing this project, a fully functional double pendulum calculated using the standard Lagrangian-derived equation ported over to Unity's code. The end point of the double pendulum has a trailing circle that shows the general pattern. The angles of the arms are graphed with the X plot representing the first arm's angle and the Y plot representing the second arm's angle. It's mostly a general graph to demonstrate the overall shape of the pendulum. Most true double-pendulum systems are inconsistent and chaotic, and while this simulation captures much of that behavior, it is still an approximation and not perfectly accurate.
 
+# Gameplay
+
+![pendulumclip](https://github.com/user-attachments/assets/52c2ebac-80ac-4677-988d-d13d6c7a4943)
+
 Features
 
 Real Lagrangian-based physics for both pendulum arms
